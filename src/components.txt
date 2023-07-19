@@ -1,0 +1,3 @@
+components:
+it is similar to javascript fumctions.and components are 
+the building blocks of react
